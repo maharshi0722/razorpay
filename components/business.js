@@ -43,7 +43,7 @@ const Business = () => {
                 </button>
 
                 <div>
-                  <a className="text-sky-400"> Know More </a>
+                  <p className="text-sky-400"> Know More </p>
                 </div>
               </div>
             </div>
